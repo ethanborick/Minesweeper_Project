@@ -29,3 +29,14 @@ The game window supports the following functionality:
 - **Flagging Mines:** a player may right click on any tile to flag it.
 
   <img width="833" height="578" alt="Screenshot 2026-01-08 at 9 47 23 PM" src="https://github.com/user-attachments/assets/258cec26-ade7-4414-8dcb-324500be4a2d" />
+
+### Game Over Screen
+Depending on if the player wins or loses the game, the smiley face on the bottom of the screen will change. If a player wins, their time will be updated on the leaderboard with a "*" indicating a new entry.
+### Game Lost Screen
+<img width="832" height="580" alt="Screenshot 2026-01-08 at 9 56 38 PM" src="https://github.com/user-attachments/assets/8018d409-3345-401d-a329-816814cb6b84" />
+
+### Game Won Screen
+<img width="832" height="581" alt="Screenshot 2026-01-08 at 9 49 55 PM" src="https://github.com/user-attachments/assets/198098da-4f6e-4639-9766-d482b4b4f370" />
+
+<img width="416" height="290" alt="Screenshot 2026-01-08 at 9 50 06 PM" src="https://github.com/user-attachments/assets/bc01bed1-ce32-439f-a2d4-12f3ab380875" />
+
